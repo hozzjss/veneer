@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/home/hozz/.local/share/virtualenvs/project1-f38uf5vu/bin/python",
+  "editor.tabSize": 4,
+  "[python]": {
+    "editor.detectIndentation": true
+  }
+}
